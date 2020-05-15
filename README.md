@@ -1,4 +1,4 @@
-# SHOP-CART-Web-App
+# SHOPPPING-CART
 This is a basic web application that is based on an idea of a shopping cart.
 Installation steps.
 Install node.js and mongodb.
