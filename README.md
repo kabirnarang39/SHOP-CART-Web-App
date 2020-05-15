@@ -9,3 +9,10 @@ This will download all the packages used.
 Change the link to mongodb from the app.js with your link.
 run => node app.js
 Open any browser and search => localhost:3200
+///////////////////////////////////////////////
+Features it offers 
+It has a User Log in and Log out functionality,
+It hs CSRF protection,
+It has add to cart and on successful payment invoice pdf generation.
+System friendly though not very vast frontend.
+Reset password functionality with mail system.
